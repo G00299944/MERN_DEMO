@@ -1,0 +1,61 @@
+{
+	"Subjects": [{
+			"Title": "Operating Systems",
+			"Credits": 5,
+			"Assessments": [{
+					"Title": "Test",
+					"Weight": 0.2,
+					"Grade": 0
+				},
+				{
+					"Title": "Exam",
+					"Weight": 0.6,
+					"Grade": 0
+				},
+				{
+					"Title": "Project",
+					"Weight": 0.2,
+					"Grade": 0
+                }]
+            },
+            {
+            "Title": "Operating Systems",
+            "Credits": 5,
+            "Assessments": [{
+                    "Title": "Test",
+                    "Weight": 0.2,
+                    "Grade": 0
+                },
+                {
+                    "Title": "Exam",
+                    "Weight": 0.6,
+                    "Grade": 0
+                },
+                {
+                    "Title": "Project",
+                    "Weight": 0.2,
+                    "Grade": 0
+                }]
+            },
+            {
+            "Title": "Operating Systems",
+            "Credits": 5,
+            "Assessments": [{
+                    "Title": "Test",
+                    "Weight": 0.2,
+                    "Grade": 0
+                },
+                {
+                    "Title": "Exam",
+                    "Weight": 0.6,
+                    "Grade": 0
+                },
+                {
+                    "Title": "Project",
+                    "Weight": 0.2,
+                    "Grade": 0
+                }]
+            }
+
+		]
+}
